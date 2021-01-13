@@ -1,0 +1,11 @@
+-Add your questions to all_questions.txt in the format below:
+question1 & answer2
+question2 & answer2
+
+-Run the program
+-Choose "all questions"
+-When you see the question, think about its answer. Click "next" when you are done.
+-If you think that the question is important, click "save". It will save the question to saved_questions.txt
+-If you think that the question is unneccesary, click remove. It will remove the question from the respective set.
+-When all questions are finished, you can click "saved questions" if you would like to see only the questions that you saved.
+
