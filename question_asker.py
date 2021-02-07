@@ -1,13 +1,15 @@
 """ TO DO LIST:
 -Think about the text files --> how to make them more convenient, how to explain how to write questions
+-Some parts of the answer is not visible if text is too long.
 """
 
 import random
 import PySimpleGUI as ps
 
 filePath = ""
-allQuestionsPath = "../all_questions.txt"
-saveFilePath = "../saved_questions.txt"
+#when you are building, add ../ before the paths
+allQuestionsPath = "all_questions.txt"
+saveFilePath = "saved_questions.txt"
 saveInput = "s"
 
 GUITitle = "Question Asker"

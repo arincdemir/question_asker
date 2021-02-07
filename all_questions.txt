@@ -1,53 +1,34 @@
-noun & name of something
-verb & an act
 former & the one before other
 coherent & orderly, understandable
-emphasis & importance
 deprive & take something precius from someone
-capital punishment & death punishment
-clause & a sentence in a sentence
 consequently & therefore
 concise & short and clear
-dependent clause & clause that can't be a sentence on its own
 gerund & making verbs noun with -ing
 procession & people attending to a ceremony
 elaborate & give additional info to back up idea
-weed out & get rid of unwanted things
-adolescents & one between childhood and adulthood
-adjective & adds meaning to nouns
-adverb & adds meaning to verbs and gerunds etc.
 vandalize & damage public stuff
-obscene & sexual, rude
 pervade & being inside every part of that thing
 shed & small building & project
 predisposition & being tend to something
 jeopardize & putting something in danger
 utterly & fully, extremely
 remorse & sadness caused by regret
-dawn on & to realize something right now
 dismay & unhappiness, dissappointment
 plead & beg
 fallible & able to be mistaken
-err & to make a mistake
-erroneus & mistake maker
 conventional & traditional
 itinerary & detailed plan for a journey
 prospect & the possibility that something good might happen
 forage & wandering places to find supplies
 conformity & behaving according to rules
-hitchhike & travelling by a strangers car
 assertive & behaving confidently
 facilitate & to make something possible, easier
 constitute & to form something
 discriminate & treat differently
 succeed & take place of someone / achieve something
 aptitude & natural skills and abilities 
-infinitives & to ... --> to love, used as a noun
 frontier & the border between two countries
 being in your element & being in a situation you are comfortable with
-nostril & holes at the end of the nose
-terrestrial & living on land or earth
-aquatic & involved with water
 segregate & keep one thing seperate from another
 esteem & respect, good opinion on someone
 effect(verb) & trigger a change
@@ -66,11 +47,10 @@ insure/ensure & make insurance/make certain
 its/it's & property of it/it is, it has
 lose/loose & don't posess, not win/not tight
 principal/principle & important, admin of school/belief, doctrine
-thorough/through & completely/from the inside
+thorough/through/throughout & completely/from the inside/in every part, during the whole process
 weather/whether & rain etc./if
 detest & hate
 resent & be angry because you are forced to accept someting
-own up & admitting that you have done someting wrong
 deter & preventing something by making it harder
 prevail & to get control or influence on sth., dominate
 repeal & taking back the law
@@ -83,3 +63,23 @@ be at odds with & disagree with someone
 patronage & the support given to an organization
 assess & judging the importance of sth.
 emphatic & done in a strong way, without leaving doubt
+decline & gradually become lesser
+prominent & very well known and important
+virtually & almost
+abundant & more than enough
+preeminent & more important than others
+abide & accept or act in accordance with
+acronym & abbreviation consisting of first letter of each word
+induce & cause something to happen
+utilitarian & designed to be useful
+attribute & give credit to someone & a characteristic of sth.
+notorious & famous for something bad
+coercive & act that uses force to persuade people
+haphazard & not having an order or plan
+everyday / every day & adjective / adverb
+tangible & real, not imaginary
+perpetrator & someone who has commited crime
+entail & involve something
+inflict & force someone to experience sth. unpleasant
+obstruct & try to stop sth. from happening
+supply / provide & supply sth. with sth. / provide sth. / provide sth. with sth.
