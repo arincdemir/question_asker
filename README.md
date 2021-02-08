@@ -1,8 +1,6 @@
 # question_asker
-Simple program to ask yourself questions and after that see the answer to that question.
+Simple program
 
-###Requisites
-
--Python 3
-
--PySimpleGui
+### Requisites
+- Python 3
+- PysimpleGUI
