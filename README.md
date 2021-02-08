@@ -1,6 +1,10 @@
 # question_asker
-Simple program
+Simple program to ask yourself questions and then see the answers to that questions.
 
 ### Requisites
 - Python 3
-- PysimpleGUI
+- PySimpleGUI
+
+# To run
+1. Install python 3
+2. Type `pip install PySimpleGUI` to cmd
