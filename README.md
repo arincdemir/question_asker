@@ -3,5 +3,6 @@ Simple program to ask yourself questions and after that see the answer to that q
 
 ###Requisites
 
--Python 3,
+-Python 3
+
 -PySimpleGui
